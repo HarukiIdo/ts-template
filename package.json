@@ -1,0 +1,19 @@
+{
+  "name": "ts-template",
+  "version": "1.0.0",
+  "description": "[ts-template](https://github.com/HarukiIdo/ts-template)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarukiIdo/ts-template.git"
+  },
+  "author": "Haruki.Ido",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HarukiIdo/ts-template/issues"
+  },
+  "homepage": "https://github.com/HarukiIdo/ts-template#readme"
+}
